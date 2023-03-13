@@ -1,13 +1,34 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# React Testing Library
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Essa aplicação foi feita usando React, jest e react testing library.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+![preview](.github/preview.gif)
+
+Aplicação que consiste em escrever testes que garantam a corretude do projeto.
+
+## 🚀 Tecnologia
+
+- ⚡ JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+
+## ✋🏻 Pré-requisitos
+
+- [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
+
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
+
+- [React](https://reactjs.org/): Biblioteca JavaScript para criar interfaces de usuário
+
+## :hammer_and_wrench: Antes de iniciar o projeto.
+
+No diretório do projeto, instale as dependências e inicialize o projeto:
+
+### `npm install`
+
+Instala as dependências.
+
+### `npm start`
+
+Executa o aplicativo no modo de desenvolvimento.
+
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
